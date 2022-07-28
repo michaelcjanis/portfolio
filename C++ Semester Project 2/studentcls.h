@@ -1,0 +1,1 @@
+//compile all of the components of a student
